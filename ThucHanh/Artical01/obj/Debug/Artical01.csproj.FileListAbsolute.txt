@@ -1,0 +1,11 @@
+D:\Window\ThucHanh\Artical01\bin\Debug\Artical01.exe.config
+D:\Window\ThucHanh\Artical01\bin\Debug\Artical01.exe
+D:\Window\ThucHanh\Artical01\bin\Debug\Artical01.pdb
+D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.csproj.AssemblyReference.cache
+D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.csproj.SuggestedBindingRedirects.cache
+D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.Form1.resources
+D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.Properties.Resources.resources
+D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.csproj.GenerateResource.cache
+D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.csproj.CoreCompileInputs.cache
+D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.exe
+D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.pdb

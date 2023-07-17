@@ -1,0 +1,15 @@
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formLogin.resources
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formRegister.resources
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cau01.resources
+D:\Window\NguyenVanThienDao\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cau02.resources
