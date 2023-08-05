@@ -1,0 +1,17 @@
+D:\Window\NguyenVanThienDao\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Window\NguyenVanThienDao\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+D:\Window\NguyenVanThienDao\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\Window\NguyenVanThienDao\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\Window\NguyenVanThienDao\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Window\NguyenVanThienDao\BLL\bin\Debug\BLL.exe.config
+D:\Window\NguyenVanThienDao\BLL\bin\Debug\BLL.exe
+D:\Window\NguyenVanThienDao\BLL\bin\Debug\BLL.pdb
+D:\Window\NguyenVanThienDao\BLL\bin\Debug\DAL.exe
+D:\Window\NguyenVanThienDao\BLL\bin\Debug\DTO.exe
+D:\Window\NguyenVanThienDao\BLL\bin\Debug\DAL.pdb
+D:\Window\NguyenVanThienDao\BLL\bin\Debug\DAL.exe.config
+D:\Window\NguyenVanThienDao\BLL\bin\Debug\DTO.pdb
+D:\Window\NguyenVanThienDao\BLL\bin\Debug\DTO.exe.config
+D:\Window\NguyenVanThienDao\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Window\NguyenVanThienDao\BLL\obj\Debug\BLL.exe
+D:\Window\NguyenVanThienDao\BLL\obj\Debug\BLL.pdb

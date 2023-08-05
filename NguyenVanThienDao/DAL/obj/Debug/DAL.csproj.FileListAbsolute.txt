@@ -1,0 +1,14 @@
+D:\Window\NguyenVanThienDao\DAL\bin\Debug\DAL.exe.config
+D:\Window\NguyenVanThienDao\DAL\bin\Debug\DAL.exe
+D:\Window\NguyenVanThienDao\DAL\bin\Debug\DAL.pdb
+D:\Window\NguyenVanThienDao\DAL\bin\Debug\DTO.exe
+D:\Window\NguyenVanThienDao\DAL\bin\Debug\DTO.pdb
+D:\Window\NguyenVanThienDao\DAL\bin\Debug\DTO.exe.config
+D:\Window\NguyenVanThienDao\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Window\NguyenVanThienDao\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+D:\Window\NguyenVanThienDao\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\Window\NguyenVanThienDao\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Window\NguyenVanThienDao\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Window\NguyenVanThienDao\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Window\NguyenVanThienDao\DAL\obj\Debug\DAL.exe
+D:\Window\NguyenVanThienDao\DAL\obj\Debug\DAL.pdb

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{07113A54-CF6D-4B27-9CAB-17B18DE5308A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "WindowsFormsApp1\GUI.csproj", "{07113A54-CF6D-4B27-9CAB-17B18DE5308A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{2408DA30-2527-4919-BA4E-8D0AAC22777A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{AC422A4A-E4BF-44C9-831B-4810F6404AEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{7891A776-D97D-4B82-8D41-6AF0E44F9CEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{07113A54-CF6D-4B27-9CAB-17B18DE5308A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07113A54-CF6D-4B27-9CAB-17B18DE5308A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07113A54-CF6D-4B27-9CAB-17B18DE5308A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2408DA30-2527-4919-BA4E-8D0AAC22777A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2408DA30-2527-4919-BA4E-8D0AAC22777A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2408DA30-2527-4919-BA4E-8D0AAC22777A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2408DA30-2527-4919-BA4E-8D0AAC22777A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC422A4A-E4BF-44C9-831B-4810F6404AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC422A4A-E4BF-44C9-831B-4810F6404AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC422A4A-E4BF-44C9-831B-4810F6404AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC422A4A-E4BF-44C9-831B-4810F6404AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7891A776-D97D-4B82-8D41-6AF0E44F9CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7891A776-D97D-4B82-8D41-6AF0E44F9CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7891A776-D97D-4B82-8D41-6AF0E44F9CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7891A776-D97D-4B82-8D41-6AF0E44F9CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

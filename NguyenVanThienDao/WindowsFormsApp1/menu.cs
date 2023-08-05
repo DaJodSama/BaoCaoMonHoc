@@ -38,5 +38,59 @@ namespace WindowsFormsApp1
             Cau02 cau02 = new Cau02();
             cau02.ShowDialog();
         }
+
+        private void btn20_Click(object sender, EventArgs e)
+        {
+            Cau20 cau20=new Cau20();
+            cau20.ShowDialog();
+        }
+
+        private void btn23_Click(object sender, EventArgs e)
+        {
+            Cau23 cau23 = new Cau23();
+            cau23.ShowDialog();
+        }
+
+        private void btn24_Click(object sender, EventArgs e)
+        {
+            Cau24 cau24 = new Cau24();
+            cau24.ShowDialog();
+        }
+
+        private void btn25_Click(object sender, EventArgs e)
+        {
+            Cau25 cau25 = new Cau25();
+            cau25.ShowDialog();
+        }
+
+        private void btnADO01_Click(object sender, EventArgs e)
+        {
+            ADO01 aDO01 = new ADO01();
+            aDO01.ShowDialog();
+        }
+
+        private void btnADO02_Click(object sender, EventArgs e)
+        {
+            ADO02 aDO02 = new ADO02();
+            aDO02.ShowDialog();
+        }
+
+        private void btnADO03_Click(object sender, EventArgs e)
+        {
+            ADO03 aDO03 = new ADO03();
+            aDO03.ShowDialog();
+        }
+
+        private void btnADO04_Click(object sender, EventArgs e)
+        {
+            CustomerGUI aDO04 = new CustomerGUI();
+            aDO04.ShowDialog();
+        }
+
+        private void btnADO05_Click(object sender, EventArgs e)
+        {
+            ADO05 aDO05 = new ADO05();
+            aDO05.ShowDialog();
+        }
     }
 }

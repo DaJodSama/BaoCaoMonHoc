@@ -1,0 +1,10 @@
+D:\Window\NguyenVanThienDao\DTO\bin\Debug\DTO.exe.config
+D:\Window\NguyenVanThienDao\DTO\bin\Debug\DTO.exe
+D:\Window\NguyenVanThienDao\DTO\bin\Debug\DTO.pdb
+D:\Window\NguyenVanThienDao\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Window\NguyenVanThienDao\DTO\obj\Debug\DTO.csproj.SuggestedBindingRedirects.cache
+D:\Window\NguyenVanThienDao\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\Window\NguyenVanThienDao\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\Window\NguyenVanThienDao\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Window\NguyenVanThienDao\DTO\obj\Debug\DTO.exe
+D:\Window\NguyenVanThienDao\DTO\obj\Debug\DTO.pdb
