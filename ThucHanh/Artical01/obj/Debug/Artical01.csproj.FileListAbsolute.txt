@@ -9,3 +9,4 @@ D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.csproj.GenerateResource.cache
 D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.csproj.CoreCompileInputs.cache
 D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.exe
 D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.pdb
+D:\Window\ThucHanh\Artical01\obj\Debug\Artical01.Form2.resources
