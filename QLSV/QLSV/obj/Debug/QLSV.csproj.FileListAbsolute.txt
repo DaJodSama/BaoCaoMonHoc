@@ -1,0 +1,11 @@
+D:\Window\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\Window\QLSV\QLSV\obj\Debug\QLSV.csproj.SuggestedBindingRedirects.cache
+D:\Window\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+D:\Window\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\Window\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\Window\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\Window\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\Window\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\Window\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\Window\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\Window\QLSV\QLSV\obj\Debug\QLSV.pdb

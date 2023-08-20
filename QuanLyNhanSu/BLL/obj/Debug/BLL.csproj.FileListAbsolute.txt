@@ -1,0 +1,17 @@
+D:\Window\QuanLyNhanSu\BLL\bin\Debug\BLL.exe.config
+D:\Window\QuanLyNhanSu\BLL\bin\Debug\BLL.exe
+D:\Window\QuanLyNhanSu\BLL\bin\Debug\BLL.pdb
+D:\Window\QuanLyNhanSu\BLL\bin\Debug\DAL.exe
+D:\Window\QuanLyNhanSu\BLL\bin\Debug\DTO.exe
+D:\Window\QuanLyNhanSu\BLL\bin\Debug\DAL.pdb
+D:\Window\QuanLyNhanSu\BLL\bin\Debug\DAL.exe.config
+D:\Window\QuanLyNhanSu\BLL\bin\Debug\DTO.pdb
+D:\Window\QuanLyNhanSu\BLL\bin\Debug\DTO.exe.config
+D:\Window\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Window\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+D:\Window\QuanLyNhanSu\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\Window\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\Window\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Window\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Window\QuanLyNhanSu\BLL\obj\Debug\BLL.exe
+D:\Window\QuanLyNhanSu\BLL\obj\Debug\BLL.pdb
